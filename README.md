@@ -9,6 +9,9 @@ Rave Flutterwave lovers can buy the official VikWP plugin here
 
 *Guide on Usage*
 
+You will need to get FX API key and API endpoint from here
+--->> https://fixer.io/documentation
+
 Upload it to WordPress
 
 Go to the plugin page and fill in your API keys
